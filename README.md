@@ -55,7 +55,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/Dipanshu-verma/Movie-omdb.git
+    git clone https://github.com/Shoaib-Sohail5/Movie-App-Omdb.git
     cd Movie-omdb
     ```
 
@@ -74,4 +74,4 @@ To run this project locally, follow these steps:
     npm start
     ```
 
-5. **Open your browser** and navigate to `http://
+5. **Open your browser** and navigate to localhost:3000
